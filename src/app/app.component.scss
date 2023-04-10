@@ -1,0 +1,31 @@
+// .field{
+//     display: flex;
+//     justify-content: space-around;
+//     width: 100%;
+//     margin-left: 20px;
+// }
+.field {
+    display: flex;
+    flex-wrap: wrap;
+    // background-color: #E1F5FE;
+    background-color: #fafafa;
+    ;
+    justify-content: space-between;
+    gap: 70px;
+    margin-left:auto;
+  }
+  .inner fields{
+    display: flex;
+    flex-wrap: wrap;
+    // background-color: #E1F5FE;
+    background-color:#40c4ff; 
+  }
+  .container {
+   display: flex;
+   justify-content: space-between;
+ 
+   //background-color:#e1f5fe ;
+}
+.centertext{
+text-align : center;
+}

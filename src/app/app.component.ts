@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'MBFS';
+  startDate = new Date(1990, 0, 1);
 }
